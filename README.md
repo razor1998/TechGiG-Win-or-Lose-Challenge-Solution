@@ -55,3 +55,4 @@ Input
 Output
 LOSE
 WIN
+![alt](img.png)
